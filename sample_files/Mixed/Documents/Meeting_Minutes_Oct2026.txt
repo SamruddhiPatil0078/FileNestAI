@@ -1,0 +1,4 @@
+Meeting Date: 2026-10-23
+Attendees: Alex, Sarah, Jordan
+Key takeaways: Rollout FileNest AI v0.2.0, verify batch undo and storage analytics.
+Action items: Verify quarantine prune and duplicate detection.

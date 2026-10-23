@@ -1,0 +1,7 @@
+{
+  "appName": "FileNest AI",
+  "version": "0.2.0",
+  "theme": "modern",
+  "scanDepth": "deep",
+  "quarantineEnabled": true
+}
